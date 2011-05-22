@@ -3,3 +3,5 @@ h1. MapX
 This is a sample project using "Backbone.js":http://documentcloud.github.com/backbone/, Google Map, and Twitter Search.
 
 This project accompanies my blog at "http://mobile.rdacorp.com/2011/05/venturing-into-backbonejs-territory.html":http://mobile.rdacorp.com/2011/05/venturing-into-backbonejs-territory.html.
+
+You can view the live demo "here":http://mapx.crux.io
