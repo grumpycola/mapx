@@ -1,5 +1,5 @@
 h1. MapX
 
-This is a sample project using "Backbone.js"":http://documentcloud.github.com/backbone/, Google Map, and Twitter Search
+This is a sample project using "Backbone.js":http://documentcloud.github.com/backbone/, Google Map, and Twitter Search
 
  
